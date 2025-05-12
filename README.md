@@ -15,13 +15,13 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,react,next,vite,vue" />
+    <img src="https://skillicons.dev/icons?i=ts,react,next,vite,vue&perline=5" />
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,php,laravel,java,spring" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,php,laravel,java,spring&perline=7" />
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,prisma,supabase" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,prisma,supabase&perline=5" />
   </a>
 </p>
 
