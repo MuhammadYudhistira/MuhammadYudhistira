@@ -2,7 +2,7 @@
 
 ![MuhammadYudhistira](img/banner.png)
 
-### Connect With Me
+### Connect With Me ✨
 
   <a href="https://www.instagram.com/myudhistira07/">
     <img src="https://skillicons.dev/icons?i=instagram" />
